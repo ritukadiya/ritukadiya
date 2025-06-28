@@ -1,21 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Ritu kadiya</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritukadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ritukadiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Tops Technologies**
+- 🔭 I’m currently working on **Corporate Industries**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Web development**
 
-- 👯 I’m looking to collaborate on **Web Application and Rest API**
+- 👯 I’m looking to collaborate on **Web Application**
 
-- 💬 Ask me about **Python , Django Framework**
-
-- 📫 How to reach me **kadiyaritu1999@gmail.com**
+- 📫 How to reach me **kadiyaritu24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
